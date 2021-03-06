@@ -1,0 +1,67 @@
+theme: soho
+baseurl: https://willhipson.netlify.app
+languageCode: en
+title: Will Hipson
+DefaultContentLanguage: en
+enableInlineShortcodes: yes
+summarylength: 10
+enableEmoji: yes
+paginate: 5
+params:
+  builtWith: yes
+  copyright: Will Hipson
+  description: PhD. Data Scientist
+  images: 
+  license: CC BY-SA 4.0
+  licenseURL: https://creativecommons.org/licenses/by-sa/4.0
+  mainSections: post
+  profilePicture: 
+  socialIcons:
+    - icon: fa-linkedin
+      title: Linkedin
+      url: https://www.linkedin.com/in/will-hipson-a771341b8/
+    - icon: fa-github
+      title: GitHub
+      url: https://github.com/whipson
+    - icon: fa-twitter
+      title: Twitter
+      url: https://twitter.com/whipson3
+  title: Soho Theme
+  themeColor: "#613F61"
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 100
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 200
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 200
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 20
+markup:
+  highlight:
+    codeFences: yes
+    guessSyntax: no
+    hl_Lines: ''
+    lineNoStart: 1
+    lineNos: no
+    lineNumbersInTable: yes
+    noClasses: yes
+    style: monokai
+    tabWidth: 4
