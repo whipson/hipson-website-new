@@ -1,30 +1,17 @@
 ---
 aliases:
-- about-us
-- about-hugo
-author: Hugo Authors
-date: "2019-02-28"
-description: Hugo, the world’s fastest framework for building websites
+- about-will
+author: Will Hipson
+date: "2021-03-07"
+description: About page
 title: About
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hi, nice to meet you, my name is Will! 
 
-Hugo makes use of a variety of open source projects including:
+I have a PhD in Psychology with a focus on Quantitative Analysis, but now I work as a Data Scientist. I specialize in data visualization, machine learning, Bayesian analysis, and software development. R is cool, I like Python OK and even a little C++.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+I live in Nova Scotia, Canada with my wife and cat. I enjoy baking sourdough bread, reading, and watching movies (esp. James Bond). I blog occasionally on topics related to data science.
 
 
 
